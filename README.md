@@ -2,6 +2,12 @@
 
 一套可实际安装使用的 Windows 小狗前爪鼠标指针主题。
 
+![完整主题总览](full-theme/preview/overview-full.png)
+
+核心动作状态：
+
+![Normal / Hover / Click / Drag 四态对比](core-drafts/core-comparison-hd.png)
+
 ## 项目特点
 
 - 背面/上表面视角的小狗前爪，不使用肉垫、指甲或尖锐爪尖
