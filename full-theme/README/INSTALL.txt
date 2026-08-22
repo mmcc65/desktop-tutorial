@@ -1,0 +1,8 @@
+Puppy Paw v3 Full Theme
+
+1. Keep this full-theme folder in a permanent location.
+2. Open Windows Mouse Properties > Pointers.
+3. Use Browse for each role and select the matching file in cursors\.
+4. Save As "Puppy Paw v3 Full" and Apply.
+
+The theme mapping is also provided in Puppy-Paw-v3-Full.theme.

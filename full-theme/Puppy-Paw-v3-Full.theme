@@ -1,0 +1,19 @@
+[Theme]
+DisplayName=Puppy Paw v3 - Full Theme
+
+[Control Panel\Cursors]
+Arrow=cursors\normal.cur
+Help=cursors\help.cur
+AppStarting=cursors\working-in-background.ani
+Wait=cursors\busy.ani
+Crosshair=cursors\precision.cur
+IBeam=cursors\text.cur
+NWPen=cursors\pen.cur
+No=cursors\unavailable.cur
+SizeNS=cursors\vresize.cur
+SizeWE=cursors\hresize.cur
+SizeNWSE=cursors\diag2.cur
+SizeNESW=cursors\diag1.cur
+SizeAll=cursors\move.ani
+UpArrow=cursors\up.cur
+Hand=cursors\link.cur
